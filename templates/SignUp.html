@@ -1,0 +1,61 @@
+<html>
+    <head>
+        <title>SIGN UP FORM</title>
+        <link rel="stylesheet" text="text/css" href="/static/css1/style.css">
+        <body>
+            <div class="Sign-Up-Form">
+                <img src="/static/user-Icon.png">
+                <h1>SIGN UP FORM</h1>
+                <form action="register" onsubmit="return test()">
+                    <input type="text" class="input-box" name="name" placeholder="Your name">
+                   <input type="email" class="input-box" name="email" placeholder="Your Email">
+                    <input type="file" name="file"
+                   <input type="password" class="input-box" name="pwd" id="pwd" placeholder="Your password">
+                    <input type="password" class="input-box" name="cpwd" id="cpwd" placeholder="confirm password">
+                   <p><span><input type="checkbox"></span>I Agree to the terms of services.</p>
+                   <button type="submit" class="signup-btn">SIGN UP</button>
+                   <hr>
+                   <p class="or">OR</p>
+                  <button type="button" class="twitter-btn">LOGIN WITH TWITTER</button>
+                  <p>Do you have an account ? <a href="#">SIGN IN</a></p>
+                    </form>
+        </body>
+        <script>
+            function test(){
+                var pwd=document.getElementById("pwd").value;
+                var cpwd=document.getElementById("cpwd").value;
+                if(pwd == cpwd){
+                    return true;
+                }
+                else{
+                    alert("password are not matched")
+                    return false;
+                }
+            }
+        </script>
+    </head>
+    </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

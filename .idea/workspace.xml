@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5edc3b15-93c8-4684-a1bc-bc5e66f22100" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cZaVOMSyrHULE6wgFjHJzHKklK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PARTH\PycharmProjects\WebApp\templates" />
+      <recent name="C:\Users\PARTH\PycharmProjects\WebApp\static\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PARTH\PycharmProjects\WebApp\templates" />
+      <recent name="C:\Users\PARTH\PycharmProjects\WebApp\static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="WebApp" type="Python.FlaskServer">
+      <module name="WebApp" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5edc3b15-93c8-4684-a1bc-bc5e66f22100" name="Default Changelist" comment="" />
+      <created>1590738591293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590738591293</updated>
+      <workItem from="1590738594197" duration="7440000" />
+      <workItem from="1590753213626" duration="121000" />
+      <workItem from="1590828600534" duration="1484000" />
+      <workItem from="1590990159193" duration="3470000" />
+      <workItem from="1591080643702" duration="601000" />
+      <workItem from="1591085526773" duration="6353000" />
+      <workItem from="1591166818028" duration="9777000" />
+      <workItem from="1591250301497" duration="11791000" />
+      <workItem from="1591346270852" duration="601000" />
+      <workItem from="1591432587350" duration="3136000" />
+      <workItem from="1591598854054" duration="8007000" />
+      <workItem from="1591682400644" duration="2720000" />
+      <workItem from="1591691920816" duration="5038000" />
+      <workItem from="1591775319528" duration="7498000" />
+      <workItem from="1591854368200" duration="6726000" />
+      <workItem from="1591949452319" duration="5979000" />
+      <workItem from="1591962795429" duration="5019000" />
+      <workItem from="1592035640562" duration="3369000" />
+      <workItem from="1592040928143" duration="1595000" />
+      <workItem from="1592208386406" duration="5707000" />
+      <workItem from="1592294807283" duration="5732000" />
+      <workItem from="1592368938249" duration="598000" />
+      <workItem from="1592379822682" duration="1241000" />
+      <workItem from="1592381139420" duration="5388000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="568" y="226" key="#Notifications" timestamp="1591258608288">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="568" y="226" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1591258608288" />
+    <state x="137" y="18" width="1090" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590829494787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" width="1090" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590829494787" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592296230612">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1592296230612" />
+    <state width="1323" height="164" key="GridCell.Tab.0.bottom" timestamp="1592386988197">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592386988197" />
+    <state width="1323" height="164" key="GridCell.Tab.0.center" timestamp="1592386988196">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592386988196" />
+    <state width="1323" height="164" key="GridCell.Tab.0.left" timestamp="1592386988196">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592386988196" />
+    <state width="1323" height="164" key="GridCell.Tab.0.right" timestamp="1592386988196">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592386988196" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1591608495095">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591608495095" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1591779813478">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1591779813478" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WebApp$WebApp.coverage" NAME="WebApp Coverage Results" MODIFIED="1592386832914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
